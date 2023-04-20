@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingStart="15dp"
+    android:paddingEnd="15dp"
+    android:paddingBottom="10dp">
+
+    <TextView
+        android:id="@+id/textview_Artistlist_Counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="6dp"
+        android:paddingEnd="10dp"
+        android:text="1"
+        android:textAlignment="center"
+        android:textColor="#0CF8DC"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/LayoutLinear_Artistlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_Artistlist1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Artist Name"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/text_Artistlist2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Song Numbers"
+            android:textSize="10dp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycle_Artistlist_items"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

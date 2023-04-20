@@ -1,0 +1,1014 @@
+{
+  "Euer Radio": {
+    "tags": [
+      "Trance",
+      "House",
+      "Dance",
+      "Techno"
+    ],
+    "href": "http://s1.euer.tv/audio192"
+  },
+  "Anima Amoris": {
+    "tags": [
+      "Trance",
+      "Techno"
+    ],
+    "href": "http://93.100.61.75:8022/"
+  },
+  "GANORIUM Radio": {
+    "tags": [
+      "Trance"
+    ],
+    "href": "https://stream.ganorium.com/"
+  },
+  "RADIO INSIDE": {
+    "tags": [
+      "Trance",
+      "House",
+      "Dance"
+    ],
+    "href": "http://stream3.virtualisan.net:7110/320"
+  },
+  "Radioparty.pl - Trance": {
+    "tags": [
+      "Trance",
+      "Goa",
+      "Psychedelic Trance"
+    ],
+    "href": "http://s2.radioparty.pl:8000/trance"
+  },
+  "Evosonic Radio": {
+    "tags": [
+      "Trance",
+      "Dance",
+      "House"
+    ],
+    "href": "http://radio.koennmer.net:8000/evosonic.mp3"
+  },
+  "Noise FM": {
+    "tags": [
+      "Drum&Bass",
+      "Electronic",
+      "House"
+    ],
+    "href": "http://noisefm.ru:8000/play_256"
+  },
+  "Dance Wave!": {
+    "tags": [
+      "Trance",
+      "Dance",
+      "Electronic",
+      "House"
+    ],
+    "href": "http://stream.dancewave.online:8080/dance.mp3"
+  },
+  "Dance UK Radio": {
+    "tags": [
+      "Trance",
+      "Dance",
+      "House"
+    ],
+    "href": "http://51.89.148.171:8022/stream/"
+  },
+  "Dance Attack FM": {
+    "tags": [
+      "Trance",
+      "Dance"
+    ],
+    "href": "http://149.255.59.162:8045/1"
+  },
+  "Moon Mission Recordings": {
+    "tags": [
+      "Techno"
+    ],
+    "href": "http://uk5.internet-radio.com:8306/listen.pls&t=.m3u"
+  },
+  "Eye Of Destiny Radio": {
+    "tags": [
+      "House"
+    ],
+    "href": "http://uk6.internet-radio.com:8428/listen.pls&t=.m3u",
+    "website": "None"
+  },
+  "EDM 3FM Radio": {
+    "tags": [
+      "House"
+    ],
+    "href": "http://uk5.internet-radio.com/proxy/edmradio3fmnorge?mp=/live"
+  },
+  "PartyVibe TECHNO RADIO": {
+    "tags": [
+      "Techno"
+    ],
+    "href": "http://partyviberadio.com:8046/;listen.pls?sid=1"
+  },
+  "PartyVibe PSYCHEDELIC TRANCE RADIO": {
+    "tags": [
+      "PSYCHEDELIC TRANCE"
+    ],
+    "href": "http://partyviberadio.com:8010/;listen.pls?sid=1"
+  },
+  "PartyVibe RAP RADIO": {
+    "tags": [
+      "Rap",
+      "Hip Hop"
+    ],
+    "href": "http://partyviberadio.com:8016/;listen.pls?sid=1"
+  },
+  "PartyVibe ROCK RADIO": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://partyviberadio.com:8032/;listen.pls?sid=1"
+  },
+  "PartyVibe DUBSTEP RADIO": {
+    "tags": [
+      "Dubstep"
+    ],
+    "href": "http://partyviberadio.com:8040/;listen.pls?sid=1"
+  },
+  "PartyVibe DRUM AND BASS RADIO": {
+    "tags": [
+      "Drum&Bass"
+    ],
+    "href": "http://partyviberadio.com:8004/;listen.pls?sid=1"
+  },
+  "Psyndora Psytrance": {
+    "tags": [
+      "Psychedelic Trance"
+    ],
+    "href": "https://cast.magicstreams.gr/sc/psyndora/stream"
+  },
+  "Psyndora Chillout": {
+    "tags": [
+      "Chillout"
+    ],
+    "href": "https://cast.magicstreams.gr/sc/psychill/stream"
+  },
+  "PsyRadio FM": {
+    "tags": [
+      "Psychedelic Trance"
+    ],
+    "href": "http://streamer.psyradio.org:8010/;listen.mp3"
+  },
+  "TrancePulse Dublin": {
+    "tags": [
+      "Trance"
+    ],
+    "href": "https://stream.trance.ie:8443/stream"
+  },
+  "Radio Bloodstream": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/live"
+  },
+  "Loaded Radio": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "https://us2.internet-radio.com/proxy/loadedradio?mp=/stream;"
+  },
+  "Radio Pirata TGR": {
+    "tags": [
+      "Metal",
+      "Rock"
+    ],
+    "href": "https://us1.internet-radio.com/proxy/radiopiratatgr?mp=/live"
+  },
+  "Undertow Radio": {
+    "tags": [
+      "Metal",
+      "Rock"
+    ],
+    "href": "https://uk5.internet-radio.com/proxy/undertowradio?mp=/stream;"
+  },
+  "PAD Radio": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://sc3.spacialnet.com:31560/;stream.nsv&type=mp3"
+  },
+  "Meat Liquor": {
+    "tags": [
+      "Hip Hop",
+      "Blues",
+      "Rock"
+    ],
+    "href": "http://uk1.internet-radio.com:8011/listen.pls&t=.m3u"
+  },
+  "Primitive Radio": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "https://us3.internet-radio.com/proxy/djlaggz818?mp=/live"
+  },
+  "kmjt98.6 Radio": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "http://us4.internet-radio.com:8107/listen.pls&t=.m3u"
+  },
+  "Have Knotz Indie Radio": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "http://us3.internet-radio.com:8536/live.m3u&t=.m3u"
+  },
+  "BMS Radio Chicago": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.143.144.226:8202/listen.pls&t=.m3u"
+  },
+  "BlackBeats.FM": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.196:80/listen.pls&t=.m3u"
+  },
+  "JakeRadio": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.165.192.5:8015/autodj.m3u&t=.m3u"
+  },
+  "Balkan Hip-Hop radio": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://88.198.233.68:2022/listen.pls&t=.m3u"
+  },
+  "GtronicRadio": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "http://nap.casthost.net:8878/stream?type=.mp3"
+  },
+  "Big R Radio Warm 101.6": {
+    "tags": [
+      "80s"
+    ],
+    "href": "http://107.155.111.234:8300"
+  },
+  "FM The Front Porch": {
+    "tags": [
+      "Blues"
+    ],
+    "href": "http://mp3uplink.duplexfx.com:8016/"
+  },
+  "Clare FM": {
+    "tags": [
+      "Country"
+    ],
+    "href": "http://edge-audio-02-gos1.sharp-stream.com/clarefm.mp3?"
+  },
+  "Nostalgie Best of 80s": {
+    "tags": [
+      "80s"
+    ],
+    "href": "http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3?"
+  },
+  "Rocker Radio": {
+    "tags": [
+      "Rock",
+      "Metal"
+    ],
+    "href": "http://stream.diazol.hu:35200/live"
+  },
+  "AVibe CT 105 FM": {
+    "tags": [
+      "Rock",
+      "Metal"
+    ],
+    "href": "http://metis.guardian.co.tt:8000/vibect105"
+  },
+  "Landwirt Radio": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://s31.derstream.net/landwirt-radio.mp3"
+  },
+  "951 FM Remix": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://metis.guardian.co.tt:8000/951thebestmix"
+  },
+  "Radio Summernight": {
+    "tags": [
+      "Rock",
+      "pop"
+    ],
+    "href": "http://stream.laut.fm/radiosummernight"
+  },
+  "Wunsch Radio FM": {
+    "tags": [
+      "Rock",
+      "pop"
+    ],
+    "href": "http://radiostreamserver.de/wunschradio.mp3"
+  },
+  "RADIO 1 ROCK": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://play.global.audio/radio1rock64"
+  },
+  "Slam 100.5 FM": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://metis.guardian.co.tt:8000/slam100.5"
+  },
+  "Aakash Vani 106.5 FM": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://metis.guardian.co.tt:8000/aakashvaniradio"
+  },
+  "ANTENNE VORARLBERG - Classic Rock": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://webradio.antennevorarlberg.at/classicrock"
+  },
+  "BDPST ROCK Radio": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://stream.diazol.hu:6010/live.mp3"
+  },
+  "1000 70er": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "https://stream.laut.fm/100070er"
+  },
+  "RADIO fresh 80s": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://s37.derstream.net/live.mp3"
+  },
+  "1000 80er": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "https://stream.laut.fm/100080er"
+  },
+  "wunschradio.fm Top100": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://radiostreamserver.de/wunschradio-top100.mp3"
+  },
+  "Radio Arabella Lovesongs": {
+    "tags": [
+      "Rock",
+      "pop"
+    ],
+    "href": "http://arabella.stream.kapper.net:8009/arabellalove"
+  },
+  "MOROW Progressive Rock Radio": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://stream.fr.morow.com:8000/morow_med.mp3"
+  },
+  "RadioFreccia": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://streaming211.radionomy.com/radiofreccia"
+  },
+  "Pirates Radio": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://maxxima.mine.nu:8000/pirates.mp3"
+  },
+  "Primordial Radio": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://stream.primordialradio.com:8050/mp3"
+  },
+  "Punk FM": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://94.23.26.22:8090/live.mp3"
+  },
+  "1000 Rock Hits": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "https://stream.laut.fm/1000rockhits"
+  },
+  "Radio Arabella Rock": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://arabella.stream.kapper.net:8003/arabellarock"
+  },
+  "- 1 A - Rock von 1A Radio": {
+    "tags": [
+      "Rock",
+      "Metal"
+    ],
+    "href": "http://s3.radionetz.de/1a-rock.mp3"
+  },
+  "WEST COAST": {
+    "tags": [
+      "Rock",
+      "Classic"
+    ],
+    "href": "http://radio10.pro-fhi.net:9101/192stream"
+  },
+  "La Grosse Radio Rock Alternative": {
+    "tags": [
+      "Rock",
+      "Alternative"
+    ],
+    "href": "http://ice1.lagrosseradio.info:8000/lagrosseradio-rock-192.mp3"
+  },
+  "Delicious Agony": {
+    "tags": [
+      "Rock"
+    ],
+    "href": "http://deliciousagony.streamguys1.com/live"
+  },
+  "Tangra Mega Rock": {
+    "tags": [
+      "Rock",
+      "Metal"
+    ],
+    "href": "http://stream-bg-01.radiotangra.com:8000/Tangra-high"
+  },
+  "HUNTER.FM - O Canal Pop": {
+    "tags": [
+      "Rock",
+      "Alternative",
+      "pop",
+      "80s"
+    ],
+    "href": "http://streaming211.radionomy.com/RadioHunter-TheHitzChannel"
+  },
+  "RTL 102.5": {
+    "tags": [
+      "pop"
+    ],
+    "href": "http://streaming211.radionomy.com/rtl-1025"
+  },
+  "Radio Disney Ecuador": {
+    "tags": [
+      "pop"
+    ],
+    "href": "http://streamingecuador.net:8001/radiodisney.mp3"
+  },
+  "Radio Essex": {
+    "tags": [
+      "pop"
+    ],
+    "href": "http://ar.canstream.co.uk:8003/live.mp3"
+  },
+  "Radio 90": {
+    "tags": [
+      "pop",
+      "90s"
+    ],
+    "href": "http://stream.radio90.pl:8000/radio90_96kbps_stereo.mp3"
+  },
+  "Hitcast Radio": {
+    "tags": [
+      "pop"
+    ],
+    "href": "http://c3.radioboss.fm:8115/autodj"
+  },
+  "NRJ Belgie": {
+    "tags": [
+      "pop"
+    ],
+    "href": "http://str.nrjbelgie.be/nrj.mp3"
+  },
+  "Radio Arabella Niederösterreich Livestream": {
+    "tags": [
+      "pop",
+      "70s",
+      "80s"
+    ],
+    "href": "http://arabella.stream.kapper.net:8001/arabellanoe"
+  },
+  "1000 Italohits": {
+    "tags": [
+      "pop"
+    ],
+    "href": "https://stream.laut.fm/1000italohits"
+  },
+  "RADIO AUSTRIA": {
+    "tags": [
+      "pop"
+    ],
+    "href": "http://radioaustria.stream.kapper.net:8000/radioaustria"
+  },
+  "NonStopPlay.com Dance Radio": {
+    "tags": [
+      "pop",
+      "Dance"
+    ],
+    "href": "http://cora.cdnstream.com/nsp-128k-mp3"
+  },
+  "TotalRock Livestream": {
+    "tags": [
+      "Rock",
+      "Metal"
+    ],
+    "href": "http://s04.whooshclouds.net:8220/live"
+  },
+  "HAIR BAND RADIO": {
+    "tags": [
+      "Rock",
+      "Metal"
+    ],
+    "href": "http://daniel.torontocast.com:2330/stream"
+  },
+  "METAL SHOP": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "http://daniel.torontocast.com:1670/stream"
+  },
+  "Metal Messiah Radio": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "http://185.80.220.12:8024/stream"
+  },
+  "Megarock Radio - All Request Rock": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "http://stream1.megarockradio.net:8240/stream"
+  },
+  "Metalzone Radio": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "http://144.76.92.208:28282/stream"
+  },
+  "HearMe - Prog Metal": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "http://hearme.fm:8115/stream"
+  },
+  "JEFF-ROCKS": {
+    "tags": [
+      "Metal",
+      "Rock"
+    ],
+    "href": "http://151.80.43.143:8040/_autodj.mp3"
+  },
+  "mETaLmuSicRaDio": {
+    "tags": [
+      "Metal"
+    ],
+    "href": "http://radio.m69.co:8000/128K.mp3"
+  },
+  "SUN Metal": {
+    "tags": [
+      "Metal",
+      "Rock"
+    ],
+    "href": "http://diffusion.lafrap.fr:8000/sun-metal.mp3"
+  },
+  "American Roots": {
+    "tags": [
+      "Blues",
+      "Indie"
+    ],
+    "href": "http://igor.torontocast.com:1940/stream"
+  },
+  "The Blues Cove": {
+    "tags": [
+      "Blues"
+    ],
+    "href": "http://radio.streemlion.com:2070/stream"
+  },
+  "Arctic Outpost AM1270": {
+    "tags": [
+      "Blues",
+      "Jazz",
+      "Classic"
+    ],
+    "href": "http://radio.streemlion.com:2900/stream"
+  },
+  "Rockin Rhythm And Blues Radio": {
+    "tags": [
+      "Blues",
+      "Soul",
+      "Rock&Roll"
+    ],
+    "href": "http://lynx.prostreaming.net:8272/live"
+  },
+  "Freedom Radio": {
+    "tags": [
+      "Blues",
+      "Rock"
+    ],
+    "href": "http://nradio.net:8080/free"
+  },
+  "DLBBlues'n'SoulRADIO": {
+    "tags": [
+      "Blues",
+      "Soul",
+      "Rock"
+    ],
+    "href": "http://streaming211.radionomy.com/DLBBlues-n-SoulRADIO"
+  },
+  "Big Blue Swing.com": {
+    "tags": [
+      "Blues",
+      "Jazz"
+    ],
+    "href": "http://radio.bigblueswing.com:8000/bigblueswing-64.mp3"
+  },
+  "HearMe - Punk Blues": {
+    "tags": [
+      "Blues"
+    ],
+    "href": "http://hearme.fm:8628/stream"
+  },
+  "OrionX": {
+    "tags": [
+      "Blues"
+    ],
+    "href": "http://streaming307.radionomy.com/OrionX"
+  },
+  "Blues Station": {
+    "tags": [
+      "Blues"
+    ],
+    "href": "http://3dworlddjstreams.xyz:8046/blues.mp3"
+  },
+  "Second Shadow of The Yellow Submarine I": {
+    "tags": [
+      "Blues",
+      "Rock&Roll",
+      "Jazz"
+    ],
+    "href": "http://radio.rikt.ru:8000/ys-radio"
+  },
+  "DeBluesRadio": {
+    "tags": [
+      "Blues"
+    ],
+    "href": "http://streaming211.radionomy.com/DeBluesRadio"
+  },
+  "HearMe - Soulful Blues": {
+    "tags": [
+      "Blues",
+      "Soul"
+    ],
+    "href": "http://hearme.fm:9001/stream"
+  },
+  "RadioSon.ru: Blues Classic Rock channel.": {
+    "tags": [
+      "Blues",
+      "Rock"
+    ],
+    "href": "http://www.radioson.ru:8009/Blues-Rock-Radio.mp3"
+  },
+  "Hot 3:16 Radio": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "http://patmos.cdnstream.com:9584/live"
+  },
+  "Radio Flow": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "http://topradio.uno:8018/live"
+  },
+  "RadioSoundSystem": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "http://streaming211.radionomy.com/RadioSoundSystem"
+  },
+  "1000 Hiphop": {
+    "tags": [
+      "Hip Hop"
+    ],
+    "href": "http://stream.laut.fm/1000hiphop"
+  },
+  "52nd Street-Beat": {
+    "tags": [
+      "Hip Hop",
+      "R&B"
+    ],
+    "href": "http://151.80.43.143:8036/_autodj.mp3"
+  },
+  "JIGGA RADIO :: Online Rap Radio": {
+    "tags": [
+      "Hip Hop",
+      "Rap",
+      "R&B"
+    ],
+    "href": "http://jiggaradio.com:10080/play.mp3"
+  },
+  "Snakeice's House of Beats (IceCast- 320kbps)": {
+    "tags": [
+      "Hip Hop",
+      "Rap",
+      "R&B",
+      "Blues"
+    ],
+    "href": "http://dhoytt.com:8030/320kbps"
+  },
+  "4RollersRadio": {
+    "tags": [
+      "Hip Hop",
+      "R&B"
+    ],
+    "href": "http://usa6.fastcast4u.com:5144/autodj"
+  },
+  "Club109": {
+    "tags": [
+      "Hip Hop",
+      "R&B"
+    ],
+    "href": "http://streaming211.radionomy.com/Club109"
+  },
+  "Rhythm of the Coast": {
+    "tags": [
+      "Hip Hop",
+      "R&B"
+    ],
+    "href": "http://streaming211.radionomy.com/RhythmofTheCoast"
+  },
+  "Radio Rapes": {
+    "tags": [
+      "Hip Hop",
+      "Rap"
+    ],
+    "href": "http://c14.radioboss.fm:8184/autodj"
+  },
+  "/stream": {
+    "tags": [
+      "Persian"
+    ],
+    "href": "http://c14.radioboss.fm:8184/autodj"
+  },
+  "Pigpen Radio": {
+    "tags": [
+      "Hip Hop",
+      "Rap"
+    ],
+    "href": "http://uk6.internet-radio.com:8213/listen.pls&t=.m3u"
+  },
+  "ESSENTIEL kidz": {
+    "tags": [
+      "Kids"
+    ],
+    "href": "http://cdnradio.streamakaci.com/essentielsweet.mp3"
+  },
+  "SubsonicRadio.com - Disney Theme Park Music | Staff Picks": {
+    "tags": [
+      "Kids"
+    ],
+    "href": "http://horizons.subsonicradio.com:8000/staff_picks.mp3"
+  },
+  "DLRP": {
+    "tags": [
+      "Kids"
+    ],
+    "href": "http://streaming308.radionomy.com/DLRP"
+  },
+  "EnchantedRadio": {
+    "tags": [
+      "Kids"
+    ],
+    "href": "http://streaming211.radionomy.com/EnchantedRadio"
+  },
+  "MKR_opera_csatorna": {
+    "tags": [
+      "Opera"
+    ],
+    "href": "http://www.katolikusradio.hu:9000/opera"
+  },
+  "ABCOpera": {
+    "tags": [
+      "Opera"
+    ],
+    "href": "http://streaming211.radionomy.com/ABC-Opera"
+  },
+  "KXLE FM 95.3 Live MP3 128 kb/s": {
+    "tags": [
+      "Country",
+      "Western"
+    ],
+    "href": "http://kxleamfm.com:8000/kxlefm.mp3hi"
+  },
+  "Radio rcwf": {
+    "tags": [
+      "Country",
+      "Western"
+    ],
+    "href": "http://198.50.250.193:7022/"
+  },
+  "Italian Songs Radio": {
+    "tags": [
+      "Italian",
+      "pop"
+    ],
+    "href": "http://95.110.186.253:8000/italiana.mp3"
+  },
+  "Pooh Channel": {
+    "tags": [
+      "Italian",
+      "pop"
+    ],
+    "href": "http://audio4.nemostream.tv:8011/autodj"
+  },
+  "totospizza": {
+    "tags": [
+      "Italian",
+      "pop"
+    ],
+    "href": "http://streaming211.radionomy.com/totospizza"
+  },
+  "Peaceful Currents Radio": {
+    "tags": [
+      "New Age"
+    ],
+    "href": "http://igor.torontocast.com:2030/stream"
+  },
+  "Cosmic Waves - Chill": {
+    "tags": [
+      "New Age",
+      "Chillout"
+    ],
+    "href": "http://cosmicwaves.ru:8001/chill"
+  },
+  "1A Entspannt von 1A Radio": {
+    "tags": [
+      "New Age"
+    ],
+    "href": "http://s3.radionetz.de/1a-entspannt_app.mp3"
+  },
+  "RADIORELAXSENSUAL": {
+    "tags": [
+      "New Age",
+      "Chillout"
+    ],
+    "href": "http://streaming211.radionomy.com/RADIORELAXSENSUAL"
+  },
+  "Relax Cafe": {
+    "tags": [
+      "New Age"
+    ],
+    "href": "http://stream.relaxfm.ee:8000/cafe"
+  },
+  "Relax International": {
+    "tags": [
+      "New Age"
+    ],
+    "href": "http://stream.relaxfm.ee:8000/international"
+  },
+  "Radio Relax": {
+    "tags": [
+      "New Age",
+      "Chillout"
+    ],
+    "href": "http://stream.relaxfm.ee:8000/vene"
+  },
+  "Lounge in Het Stamcafe!": {
+    "tags": [
+      "New Age",
+      "Chillout"
+    ],
+    "href": "http://stream.hetstamcafe.nl:8000/lounge"
+  },
+  "RadioSon.ru: Nature Sound Ambient channel": {
+    "tags": [
+      "New Age",
+      "Nature",
+      "Ambient"
+    ],
+    "href": "http://www.radioson.ru:8009/NatureSound.mp3"
+  },
+  "ChillOutWorld": {
+    "tags": [
+      "New Age",
+      "Chillout"
+    ],
+    "href": "http://streaming308.radionomy.com/ChillOutWorld"
+  },
+  "pikkarradio": {
+    "tags": [
+      "New Age"
+    ],
+    "href": "http://streaming211.radionomy.com/pikkarradio"
+  },
+  "Word of Truth Radio Instrumental Hymns": {
+    "tags": [
+      "New Age"
+    ],
+    "href": "http://wotrstream.com:8025/hymns"
+  },
+  "Ambiesphere": {
+    "tags": [
+      "Ambient",
+      "Chillout"
+    ],
+    "href": "http://uk5.internet-radio.com:8347/listen.pls&t=.m3u"
+  },
+  "SoundtrackRadiostation": {
+    "tags": [
+      "Soundtrack"
+    ],
+    "href": "http://streaming211.radionomy.com/SoundtrackRadiostation"
+  },
+  "- 0 N - Movies on Radio": {
+    "tags": [
+      "Soundtrack"
+    ],
+    "href": "http://s5.radionetz.de/0n-movies_app.mp3"
+  },
+  "Animu FM Radio Station - The Most Moe Radio of Brazil!": {
+    "tags": [
+      "Soundtrack"
+    ],
+    "href": "http://cast.animu.com.br:9021/autodj"
+  },
+  "CINEMIX": {
+    "tags": [
+      "Soundtrack"
+    ],
+    "href": "http://streaming211.radionomy.com/CINEMIX"
+  },
+  "Radio Puissance Parcs": {
+    "tags": [
+      "Soundtrack"
+    ],
+    "href": "http://manager2.creativradio.com:1750/stream"
+  },
+  "Radio Divya Jyoti": {
+    "tags": [
+      "Spiritual"
+    ],
+    "href": "http://s8.voscast.com:9280/stream.mp3"
+  },
+  "LobpreisRadio.de 32k MP3 Anbetung Lobpreis Praise Worship Radio": {
+    "tags": [
+      "Spiritual"
+    ],
+    "href": "http://worship.lobpreisradio.de:8000/anbetung-lobpreis-radio-32k-mp3-mono"
+  },
+  "Ibiza-Radios.com - Relax": {
+    "tags": [
+      "Spiritual",
+      "New Age"
+    ],
+    "href": "http://radio2.vip-radios.fm:8036/stream-64kmp3-IbizaRelax_autodj"
+  },
+  "1LIFE Radio": {
+    "tags": [
+      "Spiritual",
+      "New Age",
+      "Classic"
+    ],
+    "href": "http://stream.radiomedia.com.au:8015/autodj"
+  },
+  "Paradisagasy - Madagascar - radioparadisagasy.com": {
+    "tags": [
+      "World",
+      "African"
+    ],
+    "href": "http://radiart.eu:10018/live"
+  },
+  "Radio Merveille Togo": {
+    "tags": [
+      "World",
+      "African"
+    ],
+    "href": "http://c3.radioboss.fm:8234/autodj"
+  },
+  "african only!": {
+    "tags": [
+      "World",
+      "African"
+    ],
+    "href": "http://s5.voscast.com:9342/stream"
+  },
+  "Radio Diiwaan Daarel Barka": {
+    "tags": [
+      "World",
+      "African"
+    ],
+    "href": "http://c4.radioboss.fm:8154/autodj"
+  }
+}

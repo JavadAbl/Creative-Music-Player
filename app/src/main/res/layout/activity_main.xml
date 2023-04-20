@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activites.MainActivity"
+    android:background="@color/colorbackground">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAppbar">
+
+        <include layout="@layout/appbar_layout" />
+
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tablayout_main"
+            style="@style/AppTabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:tabIndicatorColor="@color/colorbackground"
+            app:tabIndicatorHeight="37dp"
+            app:tabSelectedTextColor="#FDDB33"
+            app:tabTextColor="#282526">
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@mipmap/ic_musiclist"
+                android:isScrollContainer="false"
+                android:text="All Songs" />
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@mipmap/ic_albumlist"
+                android:text="Albums" />
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@mipmap/ic_artistlist"
+                android:text="Artists" />
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@mipmap/ic_radiolist"
+                android:text="Genre" />
+
+        </com.google.android.material.tabs.TabLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/LayoutLinear_MainActivity_NowplayingContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:background="@color/colorbackground"
+        android:orientation="vertical"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollbarStyle="insideInset"
+        android:scrollbars="vertical"
+        android:visibility="gone" />
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3" />
+
+
+    <Button
+        android:id="@+id/btn_MainActivity_NowPlaying"
+        style="@android:style/Widget.Holo.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:onClick="NowPlaying_Click"
+        android:padding="10dp"
+        android:text="NowPlaying: "
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        android:textColor="#FDDB33"
+        android:textSize="14dp"
+        app:backgroundTint="#1636CE" />
+
+
+</LinearLayout>
